@@ -1,0 +1,52 @@
+h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+table {
+    text-align: center;
+}
+
+
+thead {
+    background-color: #b3cccc;
+}
+
+.pagination {
+    justify-content: left;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+
+.page-link {
+    color: #293d3d;
+    background-color: #b3cccc;
+    border-color: #5c8a8a;
+}
+
+.page-link:hover {
+    color: #293d3d;
+    background-color: #5c8a8a;
+    border-color: #008060;
+}
+
+.page-link:focus {
+    color: #293d3d;
+    background-color: #5c8a8a;
+    border-color: #527a7a;
+    box-shadow: none;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #5c8a8a;
+    border-color: #527a7a;
+}
+
+.page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
