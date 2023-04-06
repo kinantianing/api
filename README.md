@@ -7,5 +7,14 @@
 
 ## Menampilkan rekap data hadir dari api data hadir mahasiswa TI.20.A2
 
-### Output Program
-![Gambar 1](output.PNG) <br>
+### Output Program Page 1
+![Gambar 1](screenshot/output.PNG) <br>
+
+### Output Program Page 1
+![Gambar 2](screenshot/output2.PNG) <br>
+
+### Output Program Page 1
+![Gambar 3](screenshot/output3.PNG) <br>
+
+### Output Program Page 1
+![Gambar 4](screenshot/output4.PNG) <br>
